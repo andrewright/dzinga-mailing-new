@@ -1,0 +1,11 @@
+<mj-section>
+  <mj-column>
+    <mj-image src='http://right.2038.io/mailing-logo_top.png'  height='65px' width='130px' alt='Dzinga Logo' />
+  </mj-column>
+</mj-section>
+<mj-section mj-class='content_bg__white'>
+  <mj-column>
+    <mj-image src='http://right.2038.io/mailing-logo_bottom.png'  height='65px' width='130px' alt='Dzinga Logo' />
+  </mj-column>
+</mj-section>
+

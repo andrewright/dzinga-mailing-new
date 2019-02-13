@@ -1,0 +1,17 @@
+<mj-section background-color='#F7F7F7'>
+  <mj-column>
+    <mj-table>
+      <tr width="100%">
+        <td height='65px'>&nbsp;</td>
+        <td rowspan='2' align='center' width='130px' height='130px'>
+          <img src='http://right.2038.io/mailing-logo_2.png' style='display: block' width='130px' />
+        </td>
+        <td height='65px'>&nbsp;</td>
+      </tr>
+      <tr>
+        <td bgcolor='white' height='65px'>&nbsp;</td>
+        <td bgcolor='white' height='65px'>&nbsp;</td>
+      </tr>
+    </mj-table>
+  </mj-column>
+</mj-section>

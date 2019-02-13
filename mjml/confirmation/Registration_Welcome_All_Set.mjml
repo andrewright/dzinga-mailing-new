@@ -1,0 +1,55 @@
+<mjml>
+  <mj-head>
+    <mj-title>Dzinga: Confirm your email address</mj-title>
+    <mj-include path='./components/_head.mjml'/>
+  </mj-head>
+  <mj-body>
+    <mj-wrapper>
+      <!-- Top padding -->
+      <mj-section padding-top='77px'>
+        <mj-column></mj-column>
+      </mj-section>
+      <!-- Header // mj-section -->
+      <mj-include path='./components/_header.mjml'/>
+      <!-- Header subtitle -->
+      <mj-section mj-class='content_bg__white'>
+        <mj-column>
+          <mj-text mj-class='logo__subtitle lightgray content_bg__white' align='center'>Here's your quick start guide to Dzinga</mj-text>
+        </mj-column>
+      </mj-section>
+      <!-- Main  -->
+      <mj-section padding-top='30px' padding-bottom='4px'  mj-class='content_bg__white paddingX_10'>
+        <mj-column>
+          <mj-text mj-class='h1 black' align='center'>
+            <strong>You're all set!</strong>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class='content_bg__white paddingX_10' padding-top='6px' padding-bottom='20px'>
+        <mj-column>
+          <mj-text mj-class='main__text' align='center'>Your shiny new Dzinga account is all set. Let's get you more sales calls and a better closing rate now! </mj-text>
+        </mj-column>
+      </mj-section>
+      <!-- Sets //mj-section -->
+      <mj-include path='./components/_separator.mjml'/>
+      <mj-include path='./components/_sets.mjml'/>
+      <!-- Actions:Button //mj-section -->
+      <mj-include path='./components/_action_get.mjml'/>
+      <mj-include path='./components/_action_inbrowser.mjml'/>
+      <!-- Tutorials // mj-section -->
+      <mj-include path='./components/_separator.mjml'/>
+      <mj-include path='./components/_tutorials.mjml'/>
+      <mj-include path='./components/_separator.mjml'/>
+      <mj-include path='./components/_tutorials_billboard.mjml'/>
+
+      <mj-section padding-top='56px' padding-bottom='30px'>
+        <mj-column>
+          <mj-button mj-class='btn__main' css-class='btn__main' line-height='100%' href='https://www.dzinga.com/account/verifyEmail?token=nsMePD96HuJTQZl9SVH8CgEhKzzPM6WB3TgU68xrv4L_ dNeAKI-iKb7Krl78c4RIzxE4yIsKu664MRs0p0V5ACbfr1iNmX6tq R80pq7vdwow0_dD--6gDwzybbz0MTyMPW2pg&utm_source=server emails&utm_medium=email&utm_campaign=server_content=verify'>
+            <strong>Get a free number now</strong>
+          </mj-button>
+        </mj-column>
+      </mj-section>
+
+    </mj-wrapper>
+  </mj-body>
+</mjml>

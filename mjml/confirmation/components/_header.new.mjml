@@ -1,0 +1,17 @@
+<mj-section>
+  <mj-column>
+    <mj-image src='http://right.2038.io/mailing-logo_bg.png'  height='130px' alt='Dzinga Logo' />
+  </mj-column>
+  <mj-column width='130px'>
+    <mj-image src='http://right.2038.io/mailing-logo_2.png'  height='130px' width='130px' alt='Dzinga Logo' />
+  </mj-column>
+  <mj-column>
+    <mj-image src='http://right.2038.io/mailing-logo_bg.png'  height='130px' alt='Dzinga Logo' />
+  </mj-column>
+</mj-section>
+<mj-section mj-class='content_bg__white'>
+  <mj-column>
+    <mj-text mj-class='logo__subtitle lightgray content_bg__white' align='center'>Confirm your Dzinga account</mj-text>
+  </mj-column>
+</mj-section>
+

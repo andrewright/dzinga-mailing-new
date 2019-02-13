@@ -1,0 +1,23 @@
+<mj-section mj-class='content_bg__white'>
+  <mj-column background-color='#333333'>
+    <mj-text color='#ffffff' padding-top='44px' padding-left='42px' padding-right='30px' font-size='24px' line-height='32px'>Once your account is confirmed, you will be able to:</mj-text>
+    <mj-image src='http://right.2038.io/block-corner.png' align='right' width='50px' height='50px'/>
+  </mj-column>
+  <mj-column border-left='1px solid #F7F7F7'>
+    <mj-text mj-class='h2'>Call-back widget</mj-text>
+    <mj-text font-size='16px' line-height='22px'>Convert web and mobile visits into sales calls with the Call-back widget</mj-text>
+  </mj-column>
+</mj-section>
+
+
+<mj-section mj-class='content_bg__white'>
+  <mj-column border-top='1px solid #F7F7F7' border-right='1px solid #F7F7F7'>
+    <mj-text mj-class='h2'>Call-back widget</mj-text>
+    <mj-text font-size='16px' line-height='22px'>Convert web and mobile visits into sales calls with the Call-back widget</mj-text>
+  </mj-column>
+  <mj-column border-top='1px solid #F7F7F7'>
+    <mj-text mj-class='h2'>Call-back widget</mj-text>
+    <mj-text font-size='16px' line-height='22px'>Convert web and mobile visits into sales calls with the Call-back widget</mj-text>
+  </mj-column>
+</mj-section>
+

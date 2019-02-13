@@ -1,0 +1,44 @@
+<mj-section mj-class='content_bg__white' padding-top='22px' padding-bottom='22px'>
+  <mj-column mj-class='paddingX_28'>
+    <mj-text mj-class='h2'>What's next?</mj-text>
+  </mj-column>
+</mj-section>
+<mj-section mj-class='content_bg__white'>
+  <mj-column mj-class='paddingX_28'>
+    <mj-divider border-width='1px' border-color='#F7F7F7' />
+  </mj-column>
+</mj-section>
+<mj-section mj-class='content_bg__white'>
+  <mj-column mj-class='tutorials_list paddingX_28' width='368px'>
+    <mj-text mj-class='tutorials_list-text'>Install the Call-back widget to your website</mj-text>
+  </mj-column>
+  <mj-column mj-class='tutorials_list' width='182px' padding-right='28px'>
+    <mj-image src='http://right.2038.io/tutorial-action.png' href='#' width='136px'/>
+  </mj-column>
+</mj-section>
+<mj-section mj-class='content_bg__white'>
+  <mj-column mj-class='paddingX_28'>
+    <mj-divider border-width='1px' border-color='#F7F7F7' />
+  </mj-column>
+</mj-section>
+<mj-section mj-class='content_bg__white'>
+  <mj-column mj-class='tutorials_list paddingX_28' width='368px'>
+    <mj-text mj-class='tutorials_list-text'>Set up your first call handling rules</mj-text>
+  </mj-column>
+  <mj-column mj-class='tutorials_list' width='182px' padding-right='28px'>
+    <mj-image src='http://right.2038.io/tutorial-action.png' href='#' width='136px'/>
+  </mj-column>
+</mj-section>
+<mj-section mj-class='content_bg__white'>
+  <mj-column mj-class='paddingX_28'>
+    <mj-divider border-width='1px' border-color='#F7F7F7' />
+  </mj-column>
+</mj-section>
+<mj-section mj-class='content_bg__white'>
+  <mj-column mj-class='tutorials_list paddingX_28' width='368px'>
+    <mj-text mj-class='tutorials_list-text'>Add more people to your account</mj-text>
+  </mj-column>
+  <mj-column mj-class='tutorials_list' width='182px' padding-right='28px'>
+    <mj-image src='http://right.2038.io/tutorial-action.png' href='#' width='136px'/>
+  </mj-column>
+</mj-section>

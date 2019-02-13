@@ -1,0 +1,48 @@
+<mjml>
+  <mj-head>
+    <mj-title>Dzinga: Confirm your email address</mj-title>
+    <mj-include path='./components/_head.mjml'/>
+  </mj-head>
+  <mj-body>
+    <mj-wrapper>
+      <!-- Top padding -->
+      <mj-section padding-top='77px'>
+        <mj-column></mj-column>
+      </mj-section>
+      <!-- Header // mj-section -->
+      <mj-include path='./components/_header_full_logo.mjml'/>
+      <!-- Main  -->
+      <mj-section padding-top='30px' padding-bottom='4px'  mj-class='content_bg__white paddingX_10'>
+        <mj-column>
+          <mj-text mj-class='h1 black' align='center'>
+            <strong>Your shiny new Dzinga account
+              is missing you</strong>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class='content_bg__white paddingX_10' padding-top='6px' padding-bottom='20px'>
+        <mj-column>
+          <mj-text mj-class='main__text' align='center'>Your registration is complete, but some Dzinga functionality is still disabled for your account.</mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section padding-top='30px' padding-bottom='4px'  mj-class='content_bg__white paddingX_10'>
+        <mj-column>
+          <mj-text mj-class='h2' align='center'>
+            <strong>… It doesn't have to be like that</strong>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <!-- Actions:Button // mj-section -->
+      <mj-include path='./components/_action_confirm.mjml'/>
+      <mj-include path='./components/_action_inbrowser.mjml'/>
+      <!-- Benefits // mj-section -->
+      <mj-include path='./components/_separator.mjml'/>
+      <mj-include path='./components/_benefits.mjml'/>
+      <!-- Call to action // mj-section -->
+      <mj-include path='./components/_separator.mjml'/>
+      <mj-include path='./components/_call_to_action.mjml'/>
+      <!-- Footer // mj-section -->
+      <mj-include path='./components/_footer.mjml'/>
+    </mj-wrapper>
+  </mj-body>
+</mjml>

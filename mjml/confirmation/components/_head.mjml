@@ -1,0 +1,54 @@
+<mj-attributes>
+  <mj-font name='Roboto' href='https://fonts.googleapis.com/css?family=Roboto:400,500,700'/>
+  <mj-all font-family='Roboto, Arial' color='#414A4E' padding='0'/>
+  <mj-body background-color='#F7F7F7'/>
+  <mj-wrapper background-color='#F7F7F7' padding-left='25px' padding-right='25px'/>
+  <mj-text padding='0' font-size='12px'/>
+  <mj-section padding='0'/>
+  <mj-column padding='0'/>
+  <mj-button padding='0' inner-padding='0'/>
+  <!-- Colors -->
+  <mj-class name='black' color='#000000'/>
+  <mj-class name='green' color='#6DE022'/>
+  <mj-class name='lightgray' color='#9B9B9B'/>
+  <mj-class name='darkgrey' color='#333333'/>
+  <mj-class name='content_bg__white' background-color='#FFFFFF'/>
+  <!-- Named classes -->
+  <mj-class name='logo__subtitle' text-transform='uppercase' font-size='12px' line-height='22px' letter-spacing='3px' padding-top='14px'/>
+  <mj-class name='h1' font-size='30px' line-height='32px' font-weight='500'/>
+  <mj-class name='h2' font-size='24px' line-height='32px'/>
+  <mj-class name='tutorials_list' padding-top='18px' padding-bottom='18px'/>
+  <mj-class name='tutorials_list-text' font-size='16px' line-height='22px'/>
+  <mj-class name='main__text' font-size='16px' line-height='24px'/>
+  <mj-class name='paddingX_28' padding-left='28px' padding-right='28px'/>
+  <mj-class name='paddingX_5' padding-left='5%' padding-right='5%'/>
+  <mj-class name='paddingX_10' padding-left='10%' padding-right='10%'/>
+  <mj-class name='btn__main' color='#ffffff' background-color='#6DE022' font-weight='500' font-size='20px' display='block'
+  inner-padding='0 24px'/>
+  <mj-class name='footer__text' color='#777777' font-size='12px' line-height='20px'/>
+</mj-attributes>
+<mj-style inline='inline'>
+  a {
+  text-decoration: none;
+  }
+  .btn__main a {
+  width: 100%;
+  min-width: 150px;
+  line-height: 24px;
+  padding: 14px 0;
+  border-radius: 3px;
+  display: block;
+  color: #ffffff;
+  font-width: bold;
+  white-space: nowrap;
+  }
+  p {
+  padding: 0;
+  }
+  .mailing_logo img{
+  margin-top: -65px;
+  }
+  .main__logo img {
+  display: block;
+  }
+</mj-style>

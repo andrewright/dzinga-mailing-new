@@ -1,0 +1,18 @@
+<mj-section mj-class='content_bg__white'>
+  <mj-column background-color='#333333'>
+    <mj-text color='#ffffff' padding-top='44px' padding-left='42px' padding-right='30px' font-size='24px' line-height='32px'>Once your account is confirmed, you will be able to:</mj-text>
+    <mj-image src='http://right.2038.io/block-corner.png' align='right' width='50px' height='50px'/>
+  </mj-column>
+  <mj-column border-left='1px solid #F7F7F7'>
+    <mj-text padding-top='44px' padding-left='42px' padding-right='12px' padding-bottom='50px' font-size='16px' line-height='22px'>Convert web and mobile visits into sales calls with the <strong>Call-back widget</strong></mj-text>
+  </mj-column>
+</mj-section>
+<mj-section mj-class='content_bg__white'>
+  <mj-column border-top='1px solid #F7F7F7' border-right='1px solid #F7F7F7'>
+    <mj-text padding-top='44px' padding-left='42px' padding-right='12px' padding-bottom='50px' font-size='16px' line-height='22px'>Leverage <strong>Cloud PBX</strong> to easily attend to every call with minimum waiting time for the customer</mj-text>
+  </mj-column>
+  <mj-column border-top='1px solid #F7F7F7'>
+    <mj-text padding-top='44px' padding-left='42px' padding-right='12px' padding-bottom='50px' font-size='16px' line-height='22px'>Use <strong>local phone numbers</strong> in your prospects' home area codes to reach them in 4 attempts, not 14</mj-text>
+  </mj-column>
+</mj-section>
+
