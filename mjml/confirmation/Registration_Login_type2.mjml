@@ -6,9 +6,7 @@
   <mj-body>
     <mj-wrapper>
       <!-- Top padding -->
-      <mj-section padding-top='77px'>
-        <mj-column></mj-column>
-      </mj-section>
+      <mj-section mj-class='main_top_padding'></mj-section>
       <!-- Header // mj-section -->
       <mj-include path='./components/_header_full_logo.mjml'/>
       <!-- Main  -->

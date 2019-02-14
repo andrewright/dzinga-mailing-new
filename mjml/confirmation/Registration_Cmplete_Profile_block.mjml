@@ -6,33 +6,31 @@
   <mj-body>
     <mj-wrapper>
       <!-- Top padding -->
-      <mj-section padding-top='77px'>
-        <mj-column></mj-column>
-      </mj-section>
+      <mj-section mj-class='main_top_padding'></mj-section>
       <!-- Header // mj-section -->
       <mj-include path='./components/_header_full_logo.mjml'/>
       <!-- Header subtitle // -->
       <mj-section mj-class='content_bg__white'>
         <mj-column>
-          <mj-text mj-class='logo__subtitle lightgray content_bg__white paddingX_10' align='left'>Your leads are getting cold!</mj-text>
+          <mj-text mj-class='logo__subtitle lightgray content_bg__white paddingX_5' align='left'>Your leads are getting cold!</mj-text>
         </mj-column>
       </mj-section>
       <!-- Main  -->
-      <mj-section padding-top='30px' padding-bottom='24px'  mj-class='content_bg__white paddingX_10'>
+      <mj-section padding-top='16px' padding-bottom='18px'  mj-class='content_bg__white paddingX_5'>
         <mj-column>
           <mj-text mj-class='h1 black' align='left'>
             <strong>It's time to start Dzinging </strong>
           </mj-text>
         </mj-column>
       </mj-section>
-      <mj-section mj-class='content_bg__white paddingX_10' padding-top='6px' padding-bottom='6px'>
+      <mj-section mj-class='content_bg__white paddingX_5' padding-top='6px' padding-bottom='16px'>
         <mj-column>
           <mj-text mj-class='main__text' align='left'>Did you know that 80% of customers buy from the company that responded to their inquiry first?</mj-text>
         </mj-column>
       </mj-section>
       <mj-section>
         <mj-column>
-          <mj-image src='http://right.2038.io/img/image3.png' width='550px'/>
+          <mj-image src='https://dzinga.com/images/mail/image3.png' width='550px'/>
         </mj-column>
       </mj-section>
       <!-- Sets // mj-section -->

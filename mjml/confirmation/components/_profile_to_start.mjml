@@ -1,6 +1,6 @@
 <mj-section background-color='#333333' padding-right='25px' padding-left='25px'>
   <mj-column>
-    <mj-image src='http://right.2038.io/img/subheader-img.png' width='312px' height='95px' align='right'/>
+    <mj-image src='https://dzinga.com/images/mail/subheader-img.png' width='312px' height='95px' align='right'/>
   </mj-column>
 </mj-section>
 <mj-section background-color='#333333' padding='22px 25px 22px 25px'>

@@ -1,8 +1,8 @@
 <mj-section mj-class='content_bg__white'>
-  <mj-column background-color='#333333'>
-    <mj-text color='#ffffff' padding='94px 30px 36px 42px' font-size='16px' line-height='22px'>
+  <mj-column background-color='#333333' width='275px'>
+    <mj-text color='#ffffff' padding='80px 32px 50px 42px' font-size='16px' line-height='22px' height='100px'>
       <font color='#6DE022'>Log in</font> to your account now and complete your profile details to unlock Dzinga's most powerful features:</mj-text>
-    <mj-image src='http://right.2038.io/img/block-corner.png' align='right' width='50px' height='50px'/>
+    <mj-image src='https://dzinga.com/images/mail/block-corner.png' align='right' width='50px' height='50px'/>
   </mj-column>
   <mj-column border-left='1px solid #F7F7F7' padding='54px 36px 100px 42px'>
     <mj-text mj-class='h2' padding-bottom='14px'>Call-back widget</mj-text>

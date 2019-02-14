@@ -1,68 +1,34 @@
 <mj-section mj-class='content_bg__white'>
-  <mj-column padding-bottom='20px'>
-    <mj-text padding='32px 14px 10px' font-size='30px' line-height='32px'><strong>Thats's it!<br/>
-      You can now start to:</strong></mj-text>
-    <mj-table cellpadding='13px' cellspacing='0' border='0'>
-      <tr>
-        <td valign='top' align='center'>
-          <table bgcolor='#333333' width='240px' height='240px'>
-            <tr>
-              <td valign='middle' align='center' style='padding: 58px 36px 20px; font-size:24px; line-height: 30px;'>
-                <font color='#ffffff'>Respond to web leads in seconds</font>
-              </td>
-            </tr>
-            <tr>
-              <td valign='bottom' height='36px' style='padding:0;'>
-                <img src='http://right.2038.io/img/block-corner-2.png' style='display: block;'/>
-              </td>
-            </tr>
-          </table>
-        </td>
-        <td valign='top' align='center'>
-          <table bgcolor='#333333' width='240px' height='240px'>
-            <tr>
-              <td valign='middle' align='center' style='padding: 50px 36px 30px;font-size:24px; line-height: 30px;'>
-                <font color='#ffffff'>Convert website visitors into sales inquiries</font>
-              </td>
-            </tr>
-            <tr>
-              <td valign='bottom' height='36px' style='padding:0;'>
-                <img src='http://right.2038.io/img/block-corner-2.png' style='display: block;'/>
-              </td>
-            </tr>
-          </table>
-        </td>
-      </tr>
-      <tr>
-        <td valign='top' align='center'>
-          <table bgcolor='#333333' width='240px' height='240px'>
-            <tr>
-              <td valign='middle' align='center' style='padding: 30px 36px 20px;font-size:24px; line-height: 30px;'>
-                <font color='#ffffff'>Answer inbound calls with minimum waiting time for a customer</font>
-              </td>
-            </tr>
-            <tr>
-              <td valign='bottom' height='36px' style='padding:0;'>
-                <img src='http://right.2038.io/img/block-corner-2.png' style='display: block;'/>
-              </td>
-            </tr>
-          </table>
-        </td>
-        <td valign='top' align='center'>
-          <table bgcolor='#333333' width='240px' height='240px'>
-            <tr>
-              <td valign='middle' align='center' style='padding: 50px 36px 30px;font-size:24px; line-height: 30px;'>
-                <font color='#ffffff'>Reach a cold prospect in 4 attempts, not 14</font>
-              </td>
-            </tr>
-            <tr>
-              <td valign='bottom' height='36px' style='padding:0;'>
-                <img src='http://right.2038.io/img/block-corner-2.png' style='display: block;'/>
-              </td>
-            </tr>
-          </table>
-        </td>
-      </tr>
-    </mj-table>
+  <mj-column>
+    <mj-text mj-class='h2' padding='32px 14px 20px'><strong><font color='#6DE022'>Log in</font></strong> to your Dzinga account now to be able to:</mj-text>
   </mj-column>
+</mj-section>
+<mj-section mj-class='content_bg__white'>
+  <mj-column width='22px'></mj-column>
+  <mj-column width='240px' background-color='#333333'>
+    <mj-text padding='48px 14px 36px 26px' color='#ffffff' font-size='24px' line-height='30px' height='120px'>Respond to web leads in seconds</mj-text>
+    <mj-image src='https://dzinga.com/images/mail/block-corner-2.png' align='left' width='36px' height='36px'/>
+  </mj-column>
+  <mj-column width='26px'></mj-column>
+  <mj-column width='240px' background-color='#333333'>
+    <mj-text padding='48px 14px 36px 26px' color='#ffffff' font-size='24px' line-height='30px' height='120px'>Convert website visitors into sales inquiries</mj-text>
+    <mj-image src='https://dzinga.com/images/mail/block-corner-2.png' align='left' width='36px' height='36px'/>
+  </mj-column>
+  <mj-column width='22px'></mj-column>
+</mj-section>
+
+<mj-section mj-class='content_bg__white' padding-top='26px'></mj-section>
+
+<mj-section mj-class='content_bg__white' padding-bottom='26px'>
+  <mj-column width='22px'></mj-column>
+  <mj-column width='240px' background-color='#333333'>
+    <mj-text padding='48px 14px 36px 26px' color='#ffffff' font-size='24px' line-height='30px' height='120px'>Answer inbound calls with minimum waiting time for a customer</mj-text>
+    <mj-image src='https://dzinga.com/images/mail/block-corner-2.png' align='left' width='36px' height='36px'/>
+  </mj-column>
+  <mj-column width='26px'></mj-column>
+  <mj-column width='240px' background-color='#333333'>
+    <mj-text padding='48px 14px 36px 26px' color='#ffffff' font-size='24px' line-height='30px' height='120px'>Reach a cold prospect in 4 attempts, not 14</mj-text>
+    <mj-image src='https://dzinga.com/images/mail/block-corner-2.png' align='left' width='36px' height='36px'/>
+  </mj-column>
+  <mj-column width='22px'></mj-column>
 </mj-section>

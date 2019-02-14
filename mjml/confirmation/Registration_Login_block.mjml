@@ -6,33 +6,31 @@
   <mj-body>
     <mj-wrapper>
       <!-- Top padding -->
-      <mj-section padding-top='77px'>
-        <mj-column></mj-column>
-      </mj-section>
+      <mj-section mj-class='main_top_padding'></mj-section>
       <!-- Header // mj-section -->
       <mj-include path='./components/_header_full_logo.mjml'/>
       <!-- Header subtitle // -->
       <mj-section mj-class='content_bg__white'>
         <mj-column>
-          <mj-text mj-class='logo__subtitle lightgray content_bg__white paddingX_10' align='left'>We have something for you</mj-text>
+          <mj-text mj-class='logo__subtitle lightgray content_bg__white paddingX_5' align='left'>We have something for you</mj-text>
         </mj-column>
       </mj-section>
       <!-- Main  -->
-      <mj-section padding-top='30px' padding-bottom='4px'  mj-class='content_bg__white paddingX_10'>
+      <mj-section padding-top='30px' padding-bottom='4px'  mj-class='content_bg__white paddingX_5'>
         <mj-column>
           <mj-text mj-class='h1 black' align='left'>
             <strong>Log in to Dzinga now</strong>
           </mj-text>
         </mj-column>
       </mj-section>
-      <mj-section mj-class='content_bg__white paddingX_10' padding-top='6px' padding-bottom='20px'>
+      <mj-section mj-class='content_bg__white paddingX_5' padding-top='6px' padding-bottom='20px'>
         <mj-column>
           <mj-text mj-class='main__text' align='left'>72% of customers will hang up if their sales call isn't answered in 60 seconds or less. With Dzinga, companies attend to every call faster and stop losing clients to long waiting time.</mj-text>
         </mj-column>
       </mj-section>
       <mj-section>
         <mj-column>
-          <mj-image src='http://right.2038.io/img/image1.png' width='550px'/>
+          <mj-image src='https://dzinga.com/images/mail/image1.png' width='550px'/>
         </mj-column>
       </mj-section>
       <!-- Table Abel to // mj-section -->

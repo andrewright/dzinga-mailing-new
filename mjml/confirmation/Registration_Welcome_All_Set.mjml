@@ -6,9 +6,7 @@
   <mj-body>
     <mj-wrapper>
       <!-- Top padding -->
-      <mj-section padding-top='77px'>
-        <mj-column></mj-column>
-      </mj-section>
+      <mj-section mj-class='main_top_padding'></mj-section>
       <!-- Header // mj-section -->
       <mj-include path='./components/_header.mjml'/>
       <!-- Header subtitle -->
@@ -25,7 +23,7 @@
           </mj-text>
         </mj-column>
       </mj-section>
-      <mj-section mj-class='content_bg__white paddingX_10' padding-top='6px' padding-bottom='20px'>
+      <mj-section mj-class='content_bg__white paddingX_10' padding-top='6px' padding-bottom='50px'>
         <mj-column>
           <mj-text mj-class='main__text' align='center'>Your shiny new Dzinga account is all set. Let's get you more sales calls and a better closing rate now! </mj-text>
         </mj-column>
@@ -34,7 +32,7 @@
       <mj-include path='./components/_separator.mjml'/>
       <mj-section mj-class='content_bg__white' padding-top='36px'>
         <mj-column width='70px' background-color='#333333' border-radius="100%">
-          <mj-image src='http://right.2038.io/img/title-icon-phone.png' height='28px' width='28px' padding='21px'>
+          <mj-image src='https://dzinga.com/images/mail/title-icon-phone.png' height='28px' width='28px' padding='21px'>
           </mj-image>
         </mj-column>
       </mj-section>
@@ -60,6 +58,8 @@
           </mj-button>
         </mj-column>
       </mj-section>
+      <!-- Footer // mj-section -->
+      <mj-include path='./components/_footer.mjml'/>
 
     </mj-wrapper>
   </mj-body>

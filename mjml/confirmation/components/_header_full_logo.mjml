@@ -1,6 +1,6 @@
 <mj-section>
   <mj-column padding-bottom='24px'>
-    <mj-image src='http://right.2038.io/img/mailing-maxi-logo.png'  width='160px' alt='Dzinga Logo' align='left' />
+    <mj-image src='https://dzinga.com/images/mail/mailing-maxi-logo.png'  width='160px' alt='Dzinga Logo' align='left' />
   </mj-column>
 </mj-section>
 

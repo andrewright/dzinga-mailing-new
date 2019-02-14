@@ -3,7 +3,7 @@
     <mj-text color='#ffffff' padding='80px 30px 84px 80px' font-size='30px' line-height='45px'>
       Why give Dzinga<br/>
       a try? </mj-text>
-    <mj-image src='http://right.2038.io/img/block-corner.png' align='right' width='50px' height='50px'/>
+    <mj-image src='https://dzinga.com/images/mail/block-corner.png' align='right' width='50px' height='50px'/>
   </mj-column>
   <mj-column border-left='1px solid #F7F7F7' padding='24px 36px 100px 42px'>
     <mj-text mj-class='h2' padding-bottom='14px'>Dzinga turnes websites into lead generation machines</mj-text>

@@ -1,7 +1,7 @@
 <mj-section mj-class='content_bg__white'>
   <mj-column background-color='#333333'>
     <mj-text color='#ffffff' padding='70px 30px 36px 42px' mj-class='h2'>Complete your Dzinga user profile now and you'll be able to:</mj-text>
-    <mj-image src='http://right.2038.io/img/block-corner.png' align='right' width='50px' height='50px'/>
+    <mj-image src='https://dzinga.com/images/mail/block-corner.png' align='right' width='50px' height='50px'/>
   </mj-column>
   <mj-column border-left='1px solid #F7F7F7' padding='54px 36px 100px 42px'>
     <mj-text mj-class='h2' padding-bottom='14px'>Double the number of sales calls from your website visitors</mj-text>

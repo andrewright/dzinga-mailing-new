@@ -13,7 +13,7 @@
     <mj-text mj-class='tutorials_list-text'>Install the Call-back widget to your website</mj-text>
   </mj-column>
   <mj-column mj-class='tutorials_list' width='182px' padding-right='28px'>
-    <mj-image src='http://right.2038.io/img/tutorial-action.png' href='#' width='136px'/>
+    <mj-image src='https://dzinga.com/images/mail/tutorial-action.png' href='#' width='136px'/>
   </mj-column>
 </mj-section>
 <mj-section mj-class='content_bg__white'>
@@ -26,7 +26,7 @@
     <mj-text mj-class='tutorials_list-text'>Set up your first call handling rules</mj-text>
   </mj-column>
   <mj-column mj-class='tutorials_list' width='182px' padding-right='28px'>
-    <mj-image src='http://right.2038.io/img/tutorial-action.png' href='#' width='136px'/>
+    <mj-image src='https://dzinga.com/images/mail/tutorial-action.png' href='#' width='136px'/>
   </mj-column>
 </mj-section>
 <mj-section mj-class='content_bg__white'>
@@ -39,6 +39,6 @@
     <mj-text mj-class='tutorials_list-text'>Add more people to your account</mj-text>
   </mj-column>
   <mj-column mj-class='tutorials_list' width='182px' padding-right='28px'>
-    <mj-image src='http://right.2038.io/img/tutorial-action.png' href='#' width='136px'/>
+    <mj-image src='https://dzinga.com/images/mail/tutorial-action.png' href='#' width='136px'/>
   </mj-column>
 </mj-section>

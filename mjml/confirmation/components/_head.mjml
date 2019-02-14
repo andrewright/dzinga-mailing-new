@@ -14,6 +14,7 @@
   <mj-class name='darkgrey' color='#333333'/>
   <mj-class name='content_bg__white' background-color='#FFFFFF'/>
   <!-- Named classes -->
+  <mj-class name='main_top_padding' padding-top='10px'/>
   <mj-class name='logo__subtitle' text-transform='uppercase' font-size='12px' line-height='22px' letter-spacing='3px' padding-top='14px'/>
   <mj-class name='h1' font-size='30px' line-height='32px' font-weight='500'/>
   <mj-class name='h2' font-size='24px' line-height='32px'/>
@@ -23,7 +24,7 @@
   <mj-class name='paddingX_28' padding-left='28px' padding-right='28px'/>
   <mj-class name='paddingX_5' padding-left='5%' padding-right='5%'/>
   <mj-class name='paddingX_10' padding-left='10%' padding-right='10%'/>
-  <mj-class name='btn__main' color='#ffffff' background-color='#6DE022' font-weight='500' font-size='20px' display='block' inner-padding='0 24px'/>
+  <mj-class name='btn__main' color='#ffffff' background-color='#6DE022' font-weight='500' font-size='20px' display='block' inner-padding='0 38px'/>
   <mj-class name='btn__second' color='#ffffff' background-color='#333333' font-weight='500' font-size='20px' display='block' inner-padding='0 24px'/>
   <mj-class name='footer__text' color='#777777' font-size='12px' line-height='20px'/>
   <mj-breakpoint width="400px" />

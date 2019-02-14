@@ -6,19 +6,17 @@
   <mj-body>
     <mj-wrapper>
       <!-- Top padding -->
-      <mj-section padding-top='77px'>
-        <mj-column></mj-column>
-      </mj-section>
+      <mj-section mj-class='main_top_padding'></mj-section>
       <!-- Header // mj-section -->
       <mj-include path='./components/_header_full_logo.mjml'/>
       <!-- Header subtitle // -->
       <mj-section mj-class='content_bg__white'>
         <mj-column>
-          <mj-text mj-class='logo__subtitle lightgray content_bg__white paddingX_10' align='left'>Dzinga has something for you - Complete your profile now</mj-text>
+          <mj-text mj-class='logo__subtitle lightgray content_bg__white paddingX_5' align='left'>Dzinga has something for you -<br/> Complete your profile now</mj-text>
         </mj-column>
       </mj-section>
       <!-- Main  -->
-      <mj-section padding-top='30px' padding-bottom='24px'  mj-class='content_bg__white paddingX_10'>
+      <mj-section padding-top='20px' padding-bottom='24px'  mj-class='content_bg__white paddingX_5'>
         <mj-column>
           <mj-text mj-class='h1 black' align='left'>
             <strong>You're just one step away from better sales results!</strong>
@@ -27,7 +25,7 @@
       </mj-section>
       <mj-section>
         <mj-column>
-          <mj-image src='http://right.2038.io/img/image2.png' width='550px'/>
+          <mj-image src='https://dzinga.com/images/mail/image2.png' width='550px'/>
         </mj-column>
       </mj-section>
       <!-- Benefits // mj-section -->

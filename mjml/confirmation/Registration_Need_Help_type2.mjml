@@ -6,9 +6,7 @@
   <mj-body>
     <mj-wrapper>
       <!-- Top padding -->
-      <mj-section padding-top='77px'>
-        <mj-column></mj-column>
-      </mj-section>
+      <mj-section mj-class='main_top_padding'></mj-section>
       <!-- Header // mj-section -->
       <mj-include path='./components/_header_full_logo.mjml'/>
       <!-- Header subtitle -->
@@ -28,7 +26,7 @@
       <!-- profile_to_start //mj-section -->
       <mj-section background-color='#333333' padding-right='25px' padding-left='25px'>
         <mj-column>
-          <mj-image src='http://right.2038.io/img/subheader-img-2.png' width='312px' height='95px' align='right'/>
+          <mj-image src='https://dzinga.com/images/mail/subheader-img-2.png' width='312px' height='95px' align='right'/>
         </mj-column>
       </mj-section>
       <mj-section mj-class='content_bg__white' padding-bottom='30px'></mj-section>

@@ -1,11 +1,11 @@
 <mj-section>
   <mj-column>
-    <mj-image src='http://right.2038.io/img/mailing-logo_top.png'  height='65px' width='130px' alt='Dzinga Logo' />
+    <mj-image src='https://dzinga.com/images/mail/mailing-logo_top.png'  height='65px' width='130px' alt='Dzinga Logo' />
   </mj-column>
 </mj-section>
 <mj-section mj-class='content_bg__white'>
   <mj-column>
-    <mj-image src='http://right.2038.io/img/mailing-logo_bottom.png'  height='65px' width='130px' alt='Dzinga Logo' />
+    <mj-image src='https://dzinga.com/images/mail/mailing-logo_bottom.png'  height='65px' width='130px' alt='Dzinga Logo' />
   </mj-column>
 </mj-section>
 
