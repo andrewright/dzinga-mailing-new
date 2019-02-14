@@ -1,23 +1,22 @@
 <mj-section mj-class='content_bg__white'>
   <mj-column background-color='#333333'>
-    <mj-text color='#ffffff' padding-top='44px' padding-left='42px' padding-right='30px' font-size='24px' line-height='32px'>Once your account is confirmed, you will be able to:</mj-text>
-    <mj-image src='http://right.2038.io/block-corner.png' align='right' width='50px' height='50px'/>
+    <mj-text color='#ffffff' padding='94px 30px 36px 42px' font-size='16px' line-height='22px'>
+      <font color='#6DE022'>Log in</font> to your account now and complete your profile details to unlock Dzinga's most powerful features:</mj-text>
+    <mj-image src='http://right.2038.io/img/block-corner.png' align='right' width='50px' height='50px'/>
   </mj-column>
-  <mj-column border-left='1px solid #F7F7F7'>
-    <mj-text mj-class='h2'>Call-back widget</mj-text>
-    <mj-text font-size='16px' line-height='22px'>Convert web and mobile visits into sales calls with the Call-back widget</mj-text>
+  <mj-column border-left='1px solid #F7F7F7' padding='54px 36px 100px 42px'>
+    <mj-text mj-class='h2' padding-bottom='14px'>Call-back widget</mj-text>
+    <mj-text font-size='16px' line-height='22px'>to turn your website visitors into sales inquiries</mj-text>
   </mj-column>
 </mj-section>
-
-
 <mj-section mj-class='content_bg__white'>
-  <mj-column border-top='1px solid #F7F7F7' border-right='1px solid #F7F7F7'>
-    <mj-text mj-class='h2'>Call-back widget</mj-text>
-    <mj-text font-size='16px' line-height='22px'>Convert web and mobile visits into sales calls with the Call-back widget</mj-text>
+  <mj-column border-right='1px solid #F7F7F7' border-top='1px solid #F7F7F7' padding='54px 36px 80px 42px'>
+    <mj-text mj-class='h2' padding-bottom='14px'>Local and toll-free phone numbers</mj-text>
+    <mj-text font-size='16px' line-height='22px'>in dozens of countries to sell internationally, attract more calls and get your cold calls answered</mj-text>
   </mj-column>
-  <mj-column border-top='1px solid #F7F7F7'>
-    <mj-text mj-class='h2'>Call-back widget</mj-text>
-    <mj-text font-size='16px' line-height='22px'>Convert web and mobile visits into sales calls with the Call-back widget</mj-text>
+  <mj-column border-top='1px solid #F7F7F7' padding='54px 36px 80px 42px'>
+    <mj-text mj-class='h2' padding-bottom='14px'>Cloud PBX</mj-text>
+    <mj-text font-size='16px' line-height='22px'>to stop losing customers to busy lines by handling more sales conversations at once</mj-text>
   </mj-column>
 </mj-section>
 

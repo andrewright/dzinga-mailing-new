@@ -1,0 +1,62 @@
+<mjml>
+  <mj-head>
+    <mj-title>Dzinga: Confirm your email address</mj-title>
+    <mj-include path='./components/_head.mjml'/>
+  </mj-head>
+  <mj-body>
+    <mj-wrapper>
+      <!-- Top padding -->
+      <mj-section padding-top='77px'>
+        <mj-column></mj-column>
+      </mj-section>
+      <!-- Header // mj-section -->
+      <mj-include path='./components/_header_full_logo.mjml'/>
+      <!-- Header subtitle -->
+      <mj-section mj-class='content_bg__white'>
+        <mj-column>
+          <mj-text mj-class='logo__subtitle lightgray content_bg__white' align='center' padding-top='38px'>Need help starting with Dzinga? Here you go</mj-text>
+        </mj-column>
+      </mj-section>
+      <!-- Main  -->
+      <mj-section padding-top='18px' padding-bottom='44px'  mj-class='content_bg__white paddingX_5'>
+        <mj-column>
+          <mj-text mj-class='h1 black' align='left'>
+            <strong>Your new Dzinga account is all set and can't wait to get to work!</strong>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <!-- profile_to_start //mj-section -->
+      <mj-section background-color='#333333' padding-right='25px' padding-left='25px'>
+        <mj-column>
+          <mj-image src='http://right.2038.io/img/subheader-img-2.png' width='312px' height='95px' align='right'/>
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class='content_bg__white' padding-bottom='30px'></mj-section>
+      <mj-section mj-class='content_bg__white paddingX_5' padding-top='22px' padding-bottom='22px'>
+        <mj-column>
+          <mj-text mj-class='h2' align='center'>To get started, add at least one phone number to your account.</mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-include path='./components/_sets.mjml'/>
+      <mj-include path='./components/_action_get.mjml'/>
+      <mj-section mj-class='content_bg__white'>
+        <mj-column>
+          <mj-text align='center' font-size='16px' line-height='22px'>or</mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-include path='./components/_action_watch.mjml'/>
+      <mj-section mj-class='content_bg__white' padding-top='40px'></mj-section>
+      <mj-include path='./components/_profile_to_start-2.mjml'/>
+      <!-- Actions:Button //mj-section -->
+      <mj-section mj-class='content_bg__white paddingX_5' padding-top='48px' padding-bottom='8px'>
+        <mj-column>
+          <mj-text mj-class='h2' align='center'>Happy Dzinging!</mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-include path='./components/_action_started.mjml'/>
+      <mj-include path='./components/_action_inbrowser.mjml'/>
+      <!-- Footer // mj-section -->
+      <mj-include path='./components/_footer.mjml'/>
+    </mj-wrapper>
+  </mj-body>
+</mjml>

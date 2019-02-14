@@ -1,0 +1,67 @@
+<mj-section mj-class='content_bg__white'>
+  <mj-column>
+    <mj-text mj-class='h2' padding='32px 14px 20px'><strong><font color='#6DE022'>Log in</font></strong> to your Dzinga account now to be able to:</mj-text>
+    <mj-table cellpadding='13px' cellspacing='0' border='0'>
+      <tr>
+        <td>
+          <table bgcolor='#333333' width='240px' height='240px'>
+            <tr>
+              <td valign='middle' align='center' style='padding: 58px 36px 40px;'>
+                <font color='#ffffff' size='3'>Double the number of sales calls from your website visitors with the Call-back widget</font>
+              </td>
+            </tr>
+            <tr>
+              <td valign='bottom' height='36px' style='padding:0;'>
+                <img src='http://right.2038.io/img/block-corner-2.png' style='display: block;'/>
+              </td>
+            </tr>
+          </table>
+        </td>
+        <td>
+          <table bgcolor='#333333' width='240px' height='240px'>
+            <tr>
+              <td valign='middle' align='center' style='padding: 58px 36px 40px;'>
+                <font color='#ffffff' size='3'>Get your cold calls answered in 4 attempts, not 14, with local phone numbers</font>
+              </td>
+            </tr>
+            <tr>
+              <td valign='bottom' height='36px' style='padding:0;'>
+                <img src='http://right.2038.io/img/block-corner-2.png' style='display: block;'/>
+              </td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <table bgcolor='#333333' width='240px' height='240px'>
+            <tr>
+              <td valign='middle' align='center' style='padding: 58px 36px 40px;'>
+                <font color='#ffffff' size='3'>Respond to inbound inquiries immediately with Cloud PBX</font>
+              </td>
+            </tr>
+            <tr>
+              <td valign='bottom' height='36px' style='padding:0;'>
+                <img src='http://right.2038.io/img/block-corner-2.png' style='display: block;'/>
+              </td>
+            </tr>
+          </table>
+        </td>
+        <td>
+          <table bgcolor='#333333' width='240px' height='240px'>
+            <tr>
+              <td valign='middle' align='center' style='padding: 58px 36px 40px;'>
+                <font color='#ffffff' size='3'>Boost success of your salesteam with Call recording and Call history</font>
+              </td>
+            </tr>
+            <tr>
+              <td valign='bottom' height='36px' style='padding:0;'>
+                <img src='http://right.2038.io/img/block-corner-2.png' style='display: block;'/>
+              </td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </mj-table>
+  </mj-column>
+</mj-section>

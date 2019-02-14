@@ -23,9 +23,10 @@
   <mj-class name='paddingX_28' padding-left='28px' padding-right='28px'/>
   <mj-class name='paddingX_5' padding-left='5%' padding-right='5%'/>
   <mj-class name='paddingX_10' padding-left='10%' padding-right='10%'/>
-  <mj-class name='btn__main' color='#ffffff' background-color='#6DE022' font-weight='500' font-size='20px' display='block'
-  inner-padding='0 24px'/>
+  <mj-class name='btn__main' color='#ffffff' background-color='#6DE022' font-weight='500' font-size='20px' display='block' inner-padding='0 24px'/>
+  <mj-class name='btn__second' color='#ffffff' background-color='#333333' font-weight='500' font-size='20px' display='block' inner-padding='0 24px'/>
   <mj-class name='footer__text' color='#777777' font-size='12px' line-height='20px'/>
+  <mj-breakpoint width="400px" />
 </mj-attributes>
 <mj-style inline='inline'>
   a {
@@ -45,10 +46,20 @@
   p {
   padding: 0;
   }
+  .circle {
+    font-size: 14px;
+
+  }
   .mailing_logo img{
   margin-top: -65px;
   }
   .main__logo img {
   display: block;
+  }
+  .max-22 {
+    max-width: 22px;
+  }
+  .max-40 {
+    max-width: 40px;
   }
 </mj-style>

@@ -1,4 +1,4 @@
-<mj-section padding-top='20px' padding-bottom='16px'>
+<mj-section padding-top='38px' padding-bottom='16px'>
   <mj-column mj-class='paddingX_10'>
     <mj-text align='center' mj-class='footer__text'>
       Copyright 2017 Copyright 2017 SmartTel Plus OÜ <br/>
@@ -9,7 +9,7 @@
         <font color='#4ECD00'>www.dzinga.com</font>
       </a>
     </mj-text>
-    <mj-image src='http://right.2038.io/mailing-mini-logo.png' href='https://www.dzinga.com' width='96px' height='18px' alt='Dzinga Logo' padding-top='10px' />
+    <mj-image src='http://right.2038.io/img/mailing-mini-logo.png' href='https://www.dzinga.com' width='96px' height='18px' alt='Dzinga Logo' padding-top='10px' />
   </mj-column>
 </mj-section>
 

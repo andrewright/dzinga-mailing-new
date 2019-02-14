@@ -1,6 +1,6 @@
 <mj-section mj-class='content_bg__white'>
   <mj-column>
-    <mj-image css-class='mailing_logo' src='http://right.2038.io/mailing-logo.png' width='130px' height='130px' alt='Dzinga Logo' />
+    <mj-image css-class='mailing_logo' src='http://right.2038.io/img/mailing-logo.png' width='130px' height='130px' alt='Dzinga Logo' />
     <mj-text mj-class='logo__subtitle lightgray' align='center'>Confirm your Dzinga account</mj-text>
   </mj-column>
 </mj-section>

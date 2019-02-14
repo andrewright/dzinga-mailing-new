@@ -11,31 +11,28 @@
       </mj-section>
       <!-- Header // mj-section -->
       <mj-include path='./components/_header.mjml'/>
-      <!-- Header subtitle -->
+      <!-- Header subtitle // -->
       <mj-section mj-class='content_bg__white'>
         <mj-column>
-          <mj-text mj-class='logo__subtitle lightgray content_bg__white' align='center'>Welcome to dzinga</mj-text>
+          <mj-text mj-class='logo__subtitle lightgray content_bg__white' align='center'>Confirm your Dzinga account</mj-text>
         </mj-column>
       </mj-section>
       <!-- Main  -->
-      <mj-section padding-top='30px' padding-bottom='4px'  mj-class='content_bg__white paddingX_10'>
-        <mj-column>
-          <mj-text mj-class='h1 black' align='center'>
-            <strong>Your registration in now complete!</strong>
-          </mj-text>
-        </mj-column>
-      </mj-section>
       <mj-section mj-class='content_bg__white paddingX_10' padding-top='6px' padding-bottom='20px'>
         <mj-column>
-          <mj-text mj-class='main__text' align='center'>You have successfully created your Dzinga account. Log in now with your email address and password to get started.</mj-text>
+          <mj-text mj-class='main__text' align='center'>Your shiny new Dzinga account is pending confirmation. It's easy - just click the button below and follow the instructions to set your password.</mj-text>
         </mj-column>
       </mj-section>
-      <!-- Actions:Button //mj-section -->
-      <mj-include path='./components/_action_login.mjml'/>
+      <!-- Actions:Button // mj-section -->
+      <mj-include path='./components/_action_confirm.mjml'/>
       <mj-include path='./components/_action_inbrowser.mjml'/>
-      <!-- Tutorials // mj-section -->
+      <!-- _Benefits // mj-section -->
       <mj-include path='./components/_separator.mjml'/>
-      <mj-include path='./components/_tutorials.mjml'/>
+      <mj-include path='./components/_you_abel_to.mjml'/>
+      <!-- Call to action // mj-section -->
+      <mj-include path='./components/_separator.mjml'/>
+      <mj-include path='./components/_call_to_action.mjml'/>
+      <mj-include path='./components/_dont_activate_dark.mjml'/>
       <!-- Footer // mj-section -->
       <mj-include path='./components/_footer.mjml'/>
     </mj-wrapper>

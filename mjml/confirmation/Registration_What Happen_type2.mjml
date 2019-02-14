@@ -1,0 +1,42 @@
+<mjml>
+  <mj-head>
+    <mj-title>Dzinga: Confirm your email address</mj-title>
+    <mj-include path='./components/_head.mjml'/>
+  </mj-head>
+  <mj-body>
+    <mj-wrapper>
+      <!-- Top padding -->
+      <mj-section padding-top='77px'>
+        <mj-column></mj-column>
+      </mj-section>
+      <!-- Header // mj-section -->
+      <mj-include path='./components/_header_full_logo.mjml'/>
+      <!-- Header subtitle -->
+      <mj-section mj-class='content_bg__white'>
+        <mj-column>
+          <mj-text mj-class='logo__subtitle lightgray content_bg__white' align='center' padding-top='38px'>Complete your Dznga profile and see what happens</mj-text>
+        </mj-column>
+      </mj-section>
+      <!-- Main  -->
+      <mj-section padding-top='18px' padding-bottom='44px'  mj-class='content_bg__white paddingX_5'>
+        <mj-column>
+          <mj-text mj-class='h1 black' align='left'>
+            <strong>Thanks for signing up with Dzinga! </strong>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <!-- profile_to_start //mj-section -->
+      <mj-include path='./components/_profile_to_start.mjml'/>
+      <!-- Actions:Button //mj-section -->
+      <mj-section mj-class='content_bg__white paddingX_5' padding-top='48px' padding-bottom='8px'>
+        <mj-column>
+          <mj-text mj-class='h2' align='center'>Ready to master your sales calling?</mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-include path='./components/_action_profile_complete.mjml'/>
+      <mj-include path='./components/_action_inbrowser.mjml'/>
+      <!-- Footer // mj-section -->
+      <mj-include path='./components/_footer.mjml'/>
+    </mj-wrapper>
+  </mj-body>
+</mjml>

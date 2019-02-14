@@ -1,0 +1,23 @@
+<mj-section mj-class='content_bg__white'>
+  <mj-column background-color='#333333'>
+    <mj-text color='#ffffff' padding='80px 30px 84px 80px' font-size='30px' line-height='45px'>
+      Why give Dzinga<br/>
+      a try? </mj-text>
+    <mj-image src='http://right.2038.io/img/block-corner.png' align='right' width='50px' height='50px'/>
+  </mj-column>
+  <mj-column border-left='1px solid #F7F7F7' padding='24px 36px 100px 42px'>
+    <mj-text mj-class='h2' padding-bottom='14px'>Dzinga turnes websites into lead generation machines</mj-text>
+    <mj-text font-size='16px' line-height='22px'>Use the <strong><font color='#6DE022'>Call-back widget</font></strong> to convert web and mobile visits into sales calls</mj-text>
+  </mj-column>
+</mj-section>
+<mj-section mj-class='content_bg__white'>
+  <mj-column border-right='1px solid #F7F7F7' border-top='1px solid #F7F7F7' padding='24px 36px 40px 42px'>
+    <mj-text mj-class='h2' padding-bottom='14px'>Dzinga helps sales teams close twice the sales with half the effort</mj-text>
+    <mj-text font-size='16px' line-height='22px'>Leverage <strong><font color='#6DE022'>Cloud PBX</font></strong> to stop loosing potential customers to busy lines</mj-text>
+  </mj-column>
+  <mj-column border-top='1px solid #F7F7F7' padding='24px 36px 40px 42px'>
+    <mj-text mj-class='h2' padding-bottom='14px'>Dzinga helps companies attracts 30% more sales inquiries on the phone</mj-text>
+    <mj-text font-size='16px' line-height='22px'>Make it easy for prospects to reach you with <strong><font color='#6DE022'>toll-free and local phone numbers</font></strong></mj-text>
+  </mj-column>
+</mj-section>
+
