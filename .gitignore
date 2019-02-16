@@ -32,6 +32,7 @@ Thumbs.db
 .svn
 dist
 build
+/mjml/**/*.html
 
 # Node.JS
 node_modules

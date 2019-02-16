@@ -1,0 +1,5 @@
+<mj-section background-color='#333333'>
+  <mj-column>
+    <mj-text line-height='22px' padding-bottom='40px' color='#9B9B9B' align='center'>If you don't want to activate your account, please ignore this email.</mj-text>
+  </mj-column>
+</mj-section>

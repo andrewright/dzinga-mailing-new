@@ -1,0 +1,7 @@
+<mj-section mj-class='content_bg__white paddingX_10' padding-top='20px' padding-bottom='10px'>
+  <mj-column>
+    <mj-button mj-class='btn__main' css-class='btn__main' line-height='100%' href='https://www.dzinga.com/account/verifyEmail?token=nsMePD96HuJTQZl9SVH8CgEhKzzPM6WB3TgU68xrv4L_ dNeAKI-iKb7Krl78c4RIzxE4yIsKu664MRs0p0V5ACbfr1iNmX6tq R80pq7vdwow0_dD--6gDwzybbz0MTyMPW2pg&utm_source=server emails&utm_medium=email&utm_campaign=server_content=verify'>
+      <strong>Get a free number now</strong>
+    </mj-button>
+  </mj-column>
+</mj-section>

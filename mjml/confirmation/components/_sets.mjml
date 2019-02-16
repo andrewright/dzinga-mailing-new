@@ -1,0 +1,40 @@
+<!-- Set 1 -->
+<mj-section mj-class='content_bg__white'>
+  <mj-column width='32px' background-color='#4A4A4A' border-radius="100%">
+    <mj-text align='center' font-size='16px' line-height='100%' padding-top='8px' padding-bottom='8px'>
+      <font color='#ffffff'>1</font>
+    </mj-text>
+  </mj-column>
+</mj-section>
+<mj-section mj-class='content_bg__white'>
+  <mj-column width='50%'>
+    <mj-text align='center' font-size='16px' line-height='22px' padding-top='6px' padding-bottom='6px'>Log in to your account</mj-text>
+  </mj-column>
+</mj-section>
+<!-- Set 2 -->
+<mj-section mj-class='content_bg__white'>
+  <mj-column width='32px' background-color='#4A4A4A' border-radius="100%">
+    <mj-text align='center' font-size='16px' line-height='100%' padding-top='8px' padding-bottom='8px'>
+      <font color='#ffffff'>2</font>
+    </mj-text>
+  </mj-column>
+</mj-section>
+<mj-section mj-class='content_bg__white'>
+  <mj-column width='50%'>
+    <mj-text align='center' font-size='16px' line-height='22px' padding-top='6px' padding-bottom='6px'>Click Menu > Numbers > Buy number
+      (the first number is always free)</mj-text>
+  </mj-column>
+</mj-section>
+<!-- Set 3 -->
+<mj-section mj-class='content_bg__white'>
+  <mj-column width='32px' background-color='#4A4A4A' border-radius="100%">
+    <mj-text align='center' font-size='16px' line-height='100%' padding-top='8px' padding-bottom='8px'>
+      <font color='#ffffff'>3</font>
+    </mj-text>
+  </mj-column>
+</mj-section>
+<mj-section mj-class='content_bg__white'>
+  <mj-column width='50%'>
+    <mj-text align='center' font-size='16px' line-height='22px' padding-top='6px' padding-bottom='6px'>Select a number in a country/city of your choice</mj-text>
+  </mj-column>
+</mj-section>

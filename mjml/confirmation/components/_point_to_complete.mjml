@@ -1,0 +1,18 @@
+<mj-section mj-class='content_bg__white'>
+  <mj-column background-color='#333333'>
+    <mj-text color='#ffffff' padding='70px 30px 36px 42px' mj-class='h2'>Complete your Dzinga user profile now and you'll be able to:</mj-text>
+    <mj-image src='https://dzinga.com/images/mail/block-corner.png' align='right' width='50px' height='50px'/>
+  </mj-column>
+  <mj-column border-left='1px solid #F7F7F7' padding='54px 36px 100px 42px'>
+    <mj-text mj-class='h2' padding-bottom='14px'>Double the number of sales calls from your website visitors</mj-text>
+  </mj-column>
+</mj-section>
+<mj-section mj-class='content_bg__white'>
+  <mj-column border-right='1px solid #F7F7F7' border-top='1px solid #F7F7F7' padding='54px 36px 80px 42px'>
+    <mj-text mj-class='h2' padding-bottom='14px'>Stop losing customers to busy lines and close more deals</mj-text>
+  </mj-column>
+  <mj-column border-top='1px solid #F7F7F7' padding='54px 36px 80px 42px'>
+    <mj-text mj-class='h2' padding-bottom='14px'>Get 3,5 times more answers to your cold calls</mj-text>
+  </mj-column>
+</mj-section>
+

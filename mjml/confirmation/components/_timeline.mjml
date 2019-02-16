@@ -1,0 +1,29 @@
+<mj-section mj-class='content_bg__white' padding-top='22px' padding-bottom='22px'>
+  <mj-group>
+    <mj-column padding-top='17px' padding-bottom='17px' width='33px'></mj-column>
+    <mj-column width='40px' background-color='#6DE022' border-radius="100%" css-class='max-40'>
+      <mj-image src='https://right.2038.io/img/timeline_user.png' height='20px' width='20px' padding-top='10px' padding-bottom='10px'/>
+    </mj-column>
+    <mj-column padding-top='17px' padding-bottom='17px' width='108px'>
+      <mj-divider border-width='6px' border-color='#F7F7F7' />
+    </mj-column>
+    <mj-column width='40px' background-color='#F2F2F2' border-radius="100%" css-class='max-40'>
+      <mj-image src='https://right.2038.io/img/timeline_widget.png' height='20px' width='20px' padding-top='10px' padding-bottom='10px'/>
+    </mj-column>
+    <mj-column padding-top='17px' padding-bottom='17px' width='108px'>
+      <mj-divider border-width='6px' border-color='#F7F7F7' />
+    </mj-column>
+    <mj-column width='40px' background-color='#F2F2F2' border-radius="100%" css-class='max-40'>
+      <mj-image src='https://right.2038.io/img/timeline_mail.png' height='20px' width='20px' padding-top='10px' padding-bottom='10px'/>
+    </mj-column>
+    <mj-column padding-top='17px' padding-bottom='17px' width='108px'>
+      <mj-divider border-width='6px' border-color='#F7F7F7' />
+    </mj-column>
+    <mj-column width='40px' background-color='#F2F2F2' border-radius="100%" css-class='max-40'>
+      <mj-image src='https://right.2038.io/img/timeline_voice.png' height='20px' width='20px' padding-top='10px' padding-bottom='10px'/>
+    </mj-column>
+    <mj-column padding-top='17px' padding-bottom='17px' width='33px'>
+      <mj-divider border-width='6px' border-color='#F7F7F7' />
+    </mj-column>
+  </mj-group>
+</mj-section>
