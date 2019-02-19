@@ -43,21 +43,13 @@
       </mj-section>
       <mj-include path='./components/_sets.mjml'/>
       <!-- Actions:Button //mj-section -->
-      <mj-include path='./components/_action_get.mjml'/>
+      <mj-include path='./components/_action_choose_number.mjml'/>
       <mj-include path='./components/_action_inbrowser.mjml'/>
       <!-- Tutorials // mj-section -->
       <mj-include path='./components/_separator.mjml'/>
       <mj-include path='./components/_tutorials.mjml'/>
       <mj-include path='./components/_separator.mjml'/>
       <mj-include path='./components/_tutorials_billboard.mjml'/>
-
-      <mj-section padding-top='56px' padding-bottom='30px'>
-        <mj-column>
-          <mj-button mj-class='btn__main' css-class='btn__main' line-height='100%' href='https://www.dzinga.com/account/verifyEmail?token=nsMePD96HuJTQZl9SVH8CgEhKzzPM6WB3TgU68xrv4L_ dNeAKI-iKb7Krl78c4RIzxE4yIsKu664MRs0p0V5ACbfr1iNmX6tq R80pq7vdwow0_dD--6gDwzybbz0MTyMPW2pg&utm_source=server emails&utm_medium=email&utm_campaign=server_content=verify'>
-            <strong>Get a free number now</strong>
-          </mj-button>
-        </mj-column>
-      </mj-section>
       <!-- Footer // mj-section -->
       <mj-include path='./components/_footer.mjml'/>
 
