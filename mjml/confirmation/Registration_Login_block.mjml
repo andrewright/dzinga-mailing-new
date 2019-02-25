@@ -33,10 +33,6 @@
           <mj-image src='https://dzinga.com/images/mail/image1.png' width='550px'/>
         </mj-column>
       </mj-section>
-      <!-- Table Abel to // mj-section -->
-      <mj-include path='./components/_table_abel_to.mjml'/>
-      <!-- Call to action // mj-section -->
-      <mj-include path='./components/_separator.mjml'/>
       <!-- Actions:Button // mj-section -->
       <mj-section mj-class='content_bg__white paddingX_5' padding-top='48px' padding-bottom='8px'>
         <mj-column>
@@ -45,6 +41,10 @@
       </mj-section>
       <mj-include path='./components/_action_login.mjml'/>
       <mj-include path='./components/_action_inbrowser.mjml'/>
+      <!-- Call to action // mj-section -->
+      <mj-include path='./components/_separator.mjml'/>
+      <!-- Table Abel to // mj-section -->
+      <mj-include path='./components/_table_abel_to.mjml'/>
       <!-- Footer // mj-section -->
       <mj-include path='./components/_footer.mjml'/>
     </mj-wrapper>

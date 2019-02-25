@@ -19,7 +19,7 @@
       <mj-section padding-top='30px' padding-bottom='4px'  mj-class='content_bg__white paddingX_10'>
         <mj-column>
           <mj-text mj-class='h1 black' align='center'>
-            <strong>Your registration in now complete!</strong>
+            <strong>Your registration is now complete!</strong>
           </mj-text>
         </mj-column>
       </mj-section>
