@@ -33,6 +33,7 @@ Thumbs.db
 dist
 build
 /mjml/**/*.html
+.package-lock.json
 
 # Node.JS
 node_modules
