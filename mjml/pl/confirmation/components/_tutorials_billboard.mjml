@@ -1,0 +1,12 @@
+<mj-section mj-class='content_bg__white'>
+  <mj-column padding-top='22px' width='350px' padding-right='18px' padding-left='28px'>
+    <mj-text mj-class='h2'>Samouczków</mj-text>
+    <mj-text mj-class='tutorials_list-text'>
+      <p>Aby uzyskać więcej samouczków, zasubskrybuj <strong><font color='#4ECD00'>kanał YouTube</font></strong> or check the <strong><font color='#4ECD00'>Pomoc techniczna </font></strong> na naszej stronie.
+        Wesołego Dzingowania!</p>
+    </mj-text>
+  </mj-column>
+  <mj-column background-color='#333333' padding-top='60px' padding-bottom='60px' width='200px'>
+    <mj-image src='http://i1.androeed.ru/u/2018/05/20/107.png' href='https://youtube.com' width='80px' height='80px'/>
+  </mj-column>
+</mj-section>

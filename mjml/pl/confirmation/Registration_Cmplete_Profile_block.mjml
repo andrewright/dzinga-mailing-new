@@ -1,0 +1,67 @@
+<mjml>
+  <mj-head>
+    <mj-title>Dzinga: Twoje leady stają się zimne! Czas zacząć Dzingować</mj-title>
+    <mj-include path='./components/_head.mjml'/>
+  </mj-head>
+  <mj-body>
+    <mj-wrapper>
+      <!-- Top padding -->
+      <mj-section mj-class='main_top_padding'></mj-section>
+      <!-- Header // mj-section -->
+      <mj-include path='./components/_header_full_logo.mjml'/>
+      <!-- Header subtitle // -->
+      <mj-section mj-class='content_bg__white'>
+        <mj-column>
+          <mj-text mj-class='logo__subtitle lightgray content_bg__white paddingX_5' align='left'>Twoje leady stają się zimne!</mj-text>
+        </mj-column>
+      </mj-section>
+      <!-- Main  -->
+      <mj-section padding-top='16px' padding-bottom='18px'  mj-class='content_bg__white paddingX_5'>
+        <mj-column>
+          <mj-text mj-class='h1 black' align='left'>
+            <strong>Czas zacząć Dzingować</strong>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class='content_bg__white paddingX_5' padding-top='6px' padding-bottom='16px'>
+        <mj-column>
+          <mj-text mj-class='main__text' align='left'>Czy wiesz, że 80% klientów kupuje od firmy, która odpowiedziała na ich zapytanie w pierwszej kolejności?</mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section>
+        <mj-column>
+          <mj-image src='https://dzinga.com/images/mail/image3.png' width='550px'/>
+        </mj-column>
+      </mj-section>
+      <!-- Sets // mj-section -->
+      <mj-section mj-class='content_bg__white paddingX_5' padding-top='22px' padding-bottom='22px'>
+        <mj-column>
+          <mj-text mj-class='h2' align='center'>Zacznij korzystać z Dzinga teraz, aby odpowiedzieć na zapytania klienta w ciągu kilku sekund i zamykaj więcej sprzedaży.</mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-include path='./components/_sets.mjml'/>
+      <mj-include path='./components/_action_get.mjml'/>
+      <mj-section mj-class='content_bg__white'>
+        <mj-column>
+          <mj-text align='center' font-size='16px' line-height='22px'>lub</mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-include path='./components/_action_watch.mjml'/>
+      <mj-section mj-class='content_bg__white' padding-top='40px'></mj-section>
+      <!-- Actions:Button // mj-section -->
+      <mj-include path='./components/_separator.mjml'/>
+      <mj-include path='./components/_table_abel_to-2.mjml'/>
+      <!-- Actions:Button // mj-section -->
+      <mj-include path='./components/_separator.mjml'/>
+      <mj-section mj-class='content_bg__white' padding-top='56px' padding-bottom='18px'>
+        <mj-column>
+          <mj-text mj-class='h2' align='center'>Wesołego Dzingowania!</mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-include path='./components/_action_started.mjml'/>
+      <mj-include path='./components/_action_inbrowser.mjml'/>
+      <!-- Footer // mj-section -->
+      <mj-include path='./components/_footer.mjml'/>
+    </mj-wrapper>
+  </mj-body>
+</mjml>

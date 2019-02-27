@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "dev": "./node_modules/.bin/mjml -w ./mjml/**/*.mjml -o",
-    "build": "./node_modules/.bin/mjml ./mjml/*/*.mjml -o ./dist/ --config.beautify false --config.minify true"
+    "build:EN": "./node_modules/.bin/mjml ./mjml/en/*/*.mjml -o ./dist/en/ --config.beautify false --config.minify true",
+    "build:PL": "./node_modules/.bin/mjml ./mjml/pl/*/*.mjml -o ./dist/pl/ --config.beautify false --config.minify true"
   },
   "repository": {
     "type": "git",

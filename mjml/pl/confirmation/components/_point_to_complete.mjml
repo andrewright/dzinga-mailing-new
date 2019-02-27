@@ -1,0 +1,18 @@
+<mj-section mj-class='content_bg__white'>
+  <mj-column background-color='#333333'>
+    <mj-text color='#ffffff' padding='70px 30px 36px 42px' mj-class='h2'>Uzupełnij swój profil użytkownika Dzinga teraz, a będziesz mógł:</mj-text>
+    <mj-image src='https://dzinga.com/images/mail/block-corner.png' align='right' width='50px' height='50px'/>
+  </mj-column>
+  <mj-column border-left='1px solid #F7F7F7' padding='54px 36px 60px 42px'>
+    <mj-text font-size='22px' line-height='26px' padding-bottom='14px'>Podwoić liczbę połączeń sprzedażowych od osób odwiedzających Twoją stronę</mj-text>
+  </mj-column>
+</mj-section>
+<mj-section mj-class='content_bg__white'>
+  <mj-column border-right='1px solid #F7F7F7' border-top='1px solid #F7F7F7' padding='54px 36px 60px 42px'>
+    <mj-text font-size='22px' line-height='26px' padding-bottom='14px'>Przestać tracić klientów przez zajęte linie i zamknij więcej transakcji</mj-text>
+  </mj-column>
+  <mj-column border-top='1px solid #F7F7F7' padding='54px 36px 60px 42px'>
+    <mj-text font-size='22px' line-height='26px' padding-bottom='14px'>Uzyskać 3,5 razy więcej odpowiedzi na swoje zimne telefony</mj-text>
+  </mj-column>
+</mj-section>
+
