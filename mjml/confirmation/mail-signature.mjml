@@ -1,0 +1,47 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-font name='Montserrat' href='https://fonts.googleapis.com/css?family=Montserrat:400,500,600,700'/>
+      <mj-all font-family='Montserrat, Verdana' color='#000000' padding='0'/>
+      <mj-text padding='0' font-size='12px' line-height='24px'/>
+      <mj-section padding='0'/>
+      <mj-column padding='0'/>
+      <mj-button padding='0' inner-padding='0'/>
+
+      <mj-class name='h1' font-size='18px' line-height='24px' />
+      <mj-class name='green' color='#41A046'/>
+    </mj-attributes>
+    <mj-style inline='inline'>
+
+    </mj-style>
+  </mj-head>
+  <mj-body>
+    <mj-wrapper>
+      <mj-section padding-top='20px'>
+        <mj-column width='130px' border-right='1px solid #C6C8CA'>
+          <mj-image src='../../img/logo_emailSign.png' width='130px' height='143px' padding-right='20px' padding-bottom='20px' />
+        </mj-column>
+        <mj-column width='452px' padding-left='18px'>
+          <mj-text mj-class='h1'><strong>FULL NAME</strong></mj-text>
+          <mj-text>Position</mj-text>
+          <mj-text><strong><font color='#41A046'>P</font>&nbsp;&nbsp;</strong>+48 570 115807</mj-text>
+          <mj-text><strong><font color='#41A046'>E</font>&nbsp;&nbsp;</strong>lwoznica@apifonica.com</mj-text>
+          <mj-text><strong><font color='#41A046'>W</font>&nbsp;</strong>www.apifonica.com</mj-text>
+          <mj-social icon-size="32px" mode="horizontal" align='left'  padding-top='10px'>
+            <mj-social-element src='../../img/facebook.png' href='https://www.facebook.com/apifonica' padding='0 10px 0 0' />
+            <mj-social-element src='../../img/linkedIn.png' href="https://www.linkedin.com/company/apifonica/" padding='0 10px 0 0' />
+            <mj-social-element src='../../img/youtube.png' href='https://www.youtube.com/channel/UCcDXyQD54WKEOyNyFzp3uTQ' />
+          </mj-social>
+        </mj-column>
+      </mj-section>
+      <mj-section>
+        <mj-column>
+          <mj-text padding-top='32px'>Królewska 65a/1, 30-081 Kraków, Poland</mj-text>
+          <mj-text>Apifonica belongs to SmartTel Plus OÜ</mj-text>
+          <mj-text padding-top='18px' padding-bottom='40px'>Tresc tej wiadomosci zawiera informacje poufne, przeznaczone tylko dla adresata.
+            Udostepnianie, ujawnianie, powielanie, rozpowszechnianie badz powolywanie sie na jakikolwiek jej fragment przez inne osoby jest zabronione. W razie przypadkowego otrzymania tej wiadomosci, prosimy o powiadomienie o tym nadawcy oraz trwale jej usuniecie.</mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+  </mj-body>
+</mjml>
