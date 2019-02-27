@@ -1,0 +1,18 @@
+<mj-section mj-class='content_bg__white'>
+  <mj-column background-color='#333333'>
+    <mj-text color='#ffffff' padding-top='44px' padding-left='42px' padding-right='30px' font-size='24px' line-height='32px'>Gdy Twoje konto zostanie potwierdzone, będziesz w stanie:</mj-text>
+    <mj-image src='https://dzinga.com/images/mail/block-corner.png' align='right' width='50px' height='50px'/>
+  </mj-column>
+  <mj-column border-left='1px solid #F7F7F7'>
+    <mj-text padding-top='44px' padding-left='42px' padding-right='12px' padding-bottom='50px' font-size='16px' line-height='22px'>Dokonać konwersji wizyt sieciowych i mobilnych na rozmowy sprzedażowe za pomocą <strong>widżetu Call-back</strong></mj-text>
+  </mj-column>
+</mj-section>
+<mj-section mj-class='content_bg__white'>
+  <mj-column border-top='1px solid #F7F7F7' border-right='1px solid #F7F7F7'>
+    <mj-text padding-top='44px' padding-left='42px' padding-right='12px' padding-bottom='50px' font-size='16px' line-height='22px'>Korzystać z <strong>Cloud PBX</strong>, aby łatwo obsługiwać każde połączenie z minimalnym czasem oczekiwania dla klienta</mj-text>
+  </mj-column>
+  <mj-column border-top='1px solid #F7F7F7'>
+    <mj-text padding-top='44px' padding-left='42px' padding-right='12px' padding-bottom='50px' font-size='16px' line-height='22px'>Używać <strong>lokalnych numerów telefonów</strong> z kierunkowymi miejsc zamieszkania potencjalnych klientów, aby dotrzeć do nich w 4 próbach, a nie 144</mj-text>
+  </mj-column>
+</mj-section>
+

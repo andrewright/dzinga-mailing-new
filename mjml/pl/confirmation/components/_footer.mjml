@@ -1,0 +1,23 @@
+<mj-section padding-top='38px' padding-bottom='16px'>
+  <mj-column mj-class='paddingX_10'>
+    <mj-text align='center' mj-class='footer__text'>
+      Wszystkie prawa zastrzeżone 2019 SmartTel Plus OÜ<br/>
+      J. Vilmsi tn 47, Kesklinna district, Tallinn city, Harju county, Estonia
+    </mj-text>
+    <mj-text align='center'>
+      <a href='https://www.dzinga.com' target='_blank'>
+        <font color='#4ECD00'>www.dzinga.com</font>
+      </a>
+    </mj-text>
+    <mj-image src='https://dzinga.com/images/mail/mailing-mini-logo.png' href='https://www.dzinga.com' width='96px' height='18px' alt='Dzinga Logo' padding-top='10px' />
+  </mj-column>
+</mj-section>
+
+<mj-section padding-top='16px' padding-bottom='60px'>
+  <mj-column mj-class='paddingX_5'>
+    <mj-text align='center' mj-class='footer__text'>
+      <p>Nie chcesz otrzymywać emaili od DZINGA? Zmień preferencje email lub <a href='https://www.dzinga.com/unsubscribe-link' target='_blank'> <font color='#4ECD00'>zrezygnuj z subskrypcji</font></a>.</p>
+    </mj-text>
+  </mj-column>
+</mj-section>
+

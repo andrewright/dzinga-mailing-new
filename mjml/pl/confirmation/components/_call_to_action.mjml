@@ -1,0 +1,9 @@
+<mj-section background-color='#333333'>
+  <mj-column mj-class='darkgrey' padding-top='33px' padding-bottom='42px' padding-right='40px' padding-left='40px'>
+    <mj-text color='#ffffff' font-size='24px' line-height='32px' padding-bottom='20px' align='center'>
+      Confirm your account and start closing more sales today</mj-text>
+    <mj-button mj-class='btn__main' css-class='btn__main' line-height='100%' href='#Confirm'>
+      <strong>Tak, potwierdź teraz</strong>
+    </mj-button>
+  </mj-column>
+</mj-section>
