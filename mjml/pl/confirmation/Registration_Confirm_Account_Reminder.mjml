@@ -1,0 +1,38 @@
+<mjml>
+  <mj-head>
+    <mj-title>Dzinga: Przypomnienie: Potwierdź swoje konto Dzinga</mj-title>
+    <mj-include path='./components/_head.mjml'/>
+  </mj-head>
+  <mj-body>
+    <mj-wrapper>
+      <!-- Top padding -->
+      <mj-section mj-class='main_top_padding'></mj-section>
+      <!-- Header // mj-section -->
+      <mj-include path='./components/_header.mjml'/>
+      <!-- Header subtitle -->
+      <mj-section mj-class='content_bg__white'>
+        <mj-column>
+          <mj-text mj-class='logo__subtitle lightgray content_bg__white' align='center'>Przypomnienie</mj-text>
+        </mj-column>
+      </mj-section>
+      <!-- Main  -->
+      <mj-section padding-top='30px' padding-bottom='4px'  mj-class='content_bg__white paddingX_10'>
+        <mj-column>
+          <mj-text mj-class='h1 black' align='center'>
+            <strong>Potwierdź swoje konto Dzinga</strong>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class='content_bg__white paddingX_10' padding-top='6px' padding-bottom='20px'>
+        <mj-column>
+          <mj-text mj-class='main__text' align='center'>Jeszcze jeden krok przed ukończeniem rejestracji. Naciśnij przycisk poniżej i postępuj zgodnie z instrukcjami, aby ustawić hasło do konta.</mj-text>
+        </mj-column>
+      </mj-section>
+      <!-- Actions:Button //mj-section -->
+      <mj-include path='./components/_action_confirm.mjml'/>
+      <mj-include path='./components/_action_inbrowser.mjml'/>
+      <!-- Footer // mj-section -->
+      <mj-include path='./components/_footer.mjml'/>
+    </mj-wrapper>
+  </mj-body>
+</mjml>

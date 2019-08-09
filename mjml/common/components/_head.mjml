@@ -1,0 +1,51 @@
+<mj-attributes>
+    <mj-all color="#666666" padding="0"/>
+    <mj-body background-color="#FFFFFF"/>
+    <!-- Tags -->
+    <mj-text padding="0" font-size="16px" color="#3D3D3D" line-height="120%" font-weight="300"/>
+    <mj-section padding="0"/>
+    <mj-column padding="0"/>
+    <mj-button padding="0" inner-padding="0"/>
+    <!-- Colors -->
+    <mj-class name="black" color="#000000"/>
+    <mj-class name="blue" color="#04589B"/>
+    <mj-class name="green" color="#009933"/>
+    <mj-class name="bg-yellow" background-color="#ffff33"/>
+    <!-- Named classes -->
+    <mj-class name="padding-main-content" padding-right="20px" padding-left="20px"/>
+    <mj-class name="padding-top-14" padding-top="14px"/>
+    <mj-class name="padding-top-20" padding-top="20px"/>
+    <mj-class name="padding-top-24" padding-top="24px"/>
+    <mj-class name="padding-top-40" padding-top="40px"/>
+    <mj-class name="padding-bottom-20" padding-bottom="20px"/>
+    <mj-class name="padding-bottom-24" padding-bottom="22px"/>
+    <mj-class name="padding-bottom-30" padding-bottom="30px"/>
+    <mj-class name="paddingX_20" padding-left="20px" padding-right="20px"/>
+
+    <mj-class name="border-right" border-right="1px solid #e8eced"/>
+    <mj-class name="border-left" border-left="1px solid #e8eced"/>
+
+    <mj-class name="item-grid-text" font-size="14px" line-height="18px" align="center"/>
+    <mj-class name="item-grid-text-white" color="#FFFFFF" font-size="14px" line-height="18px" align="center"/>
+    <mj-class name="item-grid-devider-text" border-width="1px" border-style="solid" border-color="#e8eced" padding-top="16px" padding-bottom="14px"/>
+    <mj-class name="item-grid-devider" border-width="1px" border-style="solid" border-color="#e8eced" padding-top="24px" padding-bottom="20px"/>
+    <mj-class name="list-car-item-divider" border-width="1px" border-style="solid" border-color="#e8eced" padding-bottom="20px"/>
+    <mj-class name="list-car-item-divider-top" border-width="1px" border-style="solid" border-color="#e8eced" padding-top="20px"/>
+
+    <mj-class name="h1" line-height="32px" font-weight="600" padding="0"/>
+    <mj-class name="h2" font-size="28px" line-height="30px" font-weight="300" padding="0"/>
+    <mj-class name="h3" font-size="26px" line-height="26px" font-weight="300" padding="0"/>
+    <mj-class name="bold" font-weight="600" padding="0"/>
+    <mj-class name="btn-primary" color="#ffffff" background-color="#0095F4" font-weight="500" font-size="20px" inner-padding="0 10px" border-radius="0"/>
+    <mj-class name="marked" color="#000000" align="center" line-height="100%" letter-spacing="1px"  font-weight="700"/>
+    <mj-class name="big-price" align="center" font-size="28px" line-height="32px" font-weight="700" padding="10px 0"/>
+    <mj-class name="big-price-white" color="#FFFFFF" align="center" font-size="46px" line-height="55px" font-weight="700" padding="10px 0" />
+
+    <mj-class name="make-changes" background-color="#d0f5ec" padding="0 42px 32px" align="center" />
+    <mj-class name="subscription" background-color="#336699" align="center" />
+    <mj-class name="make-claim-number" color="#04589B" font-size="26px" line-height="100%" font-weight="700" />
+    <mj-class name="make-claim-text" font-size="14px" line-height="18px" />
+    <mj-class name="disclaimer" font-size="18px" line-height="20px" background-color="#F7F7F7" color="#3D3D3D" padding="32px 42px" />
+    <mj-class name="footer__text" color="#3D3D3D" font-size="12px" line-height="18px" font-weight="400" align="justify" />
+</mj-attributes>
+<mj-breakpoint width="320px" />

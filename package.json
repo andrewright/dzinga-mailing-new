@@ -1,0 +1,25 @@
+{
+  "name": "dzinga-mailing",
+  "version": "1.0.0",
+  "description": "- Always check mailing in Outlook mail agent (http:// sendhtmail.ru).\r  - [Minify](https://www.willpeavy.com/minifier) mails befor send it to the client",
+  "main": "index.js",
+  "scripts": {
+    "watch:all": "./node_modules/.bin/mjml -w ./mjml/**/*.mjml -o",
+    "en:watch:dev": "node index.js ./mjml/en/confirmation/ dev watch",
+    "en:build:dev": "node index.js ./mjml/en/confirmation/ dev",
+    "pl:watch:dev": "node index.js ./mjml/pl/confirmation/ dev watch",
+    "pl:build:dev": "node index.js ./mjml/pl/confirmation/ dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andrewright/dzinga-mailing-new"
+  },
+  "keywords": [],
+  "author": "Andrew Garbuzov",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "mjml": "^4.4.1",
+    "node-watch": "^0.6.2"
+  }
+}

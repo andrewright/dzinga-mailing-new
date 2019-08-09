@@ -1,0 +1,23 @@
+<mj-section mj-class='content_bg__white'>
+  <mj-column background-color='#333333'>
+    <mj-text color='#ffffff' padding='80px 20px 84px 40px' font-size='26px' line-height='30px' height='130px'>
+      Dlaczego warto spróbować <br/>
+      korzystania z Dzinga? </mj-text>
+    <mj-image src='https://dzinga.com/images/mail/block-corner.png' align='right' width='50px' height='50px'/>
+  </mj-column>
+  <mj-column border-left='1px solid #F7F7F7' padding='24px 36px 100px 42px'>
+    <mj-text font-size='22px' line-height='26px' padding-bottom='14px'>Dzinga zamienia strony internetowe w maszyny generujące lead'y</mj-text>
+    <mj-text font-size='16px' line-height='22px'>Użyj widżetu <strong><font color='#6DE022'>Call-back, </font></strong> aby przekonwertować wizyty sieciowe i mobilne na połączenia sprzedażowe</mj-text>
+  </mj-column>
+</mj-section>
+<mj-section mj-class='content_bg__white'>
+  <mj-column border-right='1px solid #F7F7F7' border-top='1px solid #F7F7F7' padding='24px 36px 40px 42px'>
+    <mj-text font-size='22px' line-height='26px' padding-bottom='14px'>Dzinga pomaga zespołom sprzedażowym zamknąć o połowę więcej sprzedaży przy połowie wysiłku</mj-text>
+    <mj-text font-size='16px' line-height='22px'>Wykorzystaj <strong><font color='#6DE022'>Cloud PBX, </font></strong> aby przestać tracić potencjalnych klientów przez zajęte linie</mj-text>
+  </mj-column>
+  <mj-column border-top='1px solid #F7F7F7' padding='24px 36px 40px 42px'>
+    <mj-text font-size='22px' line-height='26px' padding-bottom='14px'>Dzinga pomaga firmom przyciągnąć o 30% więcej zapytań sprzedażowych przez telefon</mj-text>
+    <mj-text font-size='16px' line-height='22px'>Spraw, aby potencjalni klienci mogli do Ciebie dotrzeć za pomocą <strong><font color='#6DE022'>bezpłatnych i lokalnych numerów telefonów</font></strong></mj-text>
+  </mj-column>
+</mj-section>
+

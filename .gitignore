@@ -32,8 +32,11 @@ Thumbs.db
 .svn
 dist
 build
+/mjml/**/*.html
+package-lock.json
 
 # Node.JS
 node_modules
+package-lock.json
 npm-debug.log
 yarn.lock

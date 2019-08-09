@@ -1,0 +1,58 @@
+<mjml>
+  <mj-head>
+    <mj-title>Dzinga: Wszystko gotowe! Oto Twój przewodnik szybkiego startu w Dzinga</mj-title>
+    <mj-include path='./components/_head.mjml'/>
+  </mj-head>
+  <mj-body>
+    <mj-wrapper>
+      <!-- Top padding -->
+      <mj-section mj-class='main_top_padding'></mj-section>
+      <!-- Header // mj-section -->
+      <mj-include path='./components/_header.mjml'/>
+      <!-- Header subtitle -->
+      <mj-section mj-class='content_bg__white'>
+        <mj-column>
+          <mj-text mj-class='logo__subtitle lightgray content_bg__white' align='center'>Oto Twój przewodnik szybkiego startu w Dzinga</mj-text>
+        </mj-column>
+      </mj-section>
+      <!-- Main  -->
+      <mj-section padding-top='30px' padding-bottom='4px'  mj-class='content_bg__white paddingX_10'>
+        <mj-column>
+          <mj-text mj-class='h1 black' align='center'>
+            <strong>Wszystko gotowe!</strong>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class='content_bg__white paddingX_10' padding-top='6px' padding-bottom='50px'>
+        <mj-column>
+          <mj-text mj-class='main__text' align='center'>Twoje nowe, błyszczące konto Dzinga jest już gotowe. Zdobądźmy więcej połączeń sprzedażowych i lepszą cenę zamknięcia już teraz!</mj-text>
+        </mj-column>
+      </mj-section>
+      <!-- Sets //mj-section -->
+      <mj-include path='./components/_separator.mjml'/>
+      <mj-section mj-class='content_bg__white' padding-top='36px'>
+        <mj-column width='70px' background-color='#333333' border-radius="100%">
+          <mj-image src='https://dzinga.com/images/mail/title-icon-phone.png' height='28px' width='28px' padding='21px'>
+          </mj-image>
+        </mj-column>
+      </mj-section>
+      <mj-section mj-class='content_bg__white paddingX_5' padding-top='22px' padding-bottom='22px'>
+        <mj-column>
+          <mj-text mj-class='h2' align='center'>Aby rozpocząć, dodaj co najmniej jeden numer telefonu do swojego konta.</mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-include path='./components/_sets.mjml'/>
+      <!-- Actions:Button //mj-section -->
+      <mj-include path='./components/_action_choose_number.mjml'/>
+      <mj-include path='./components/_action_inbrowser.mjml'/>
+      <!-- Tutorials // mj-section -->
+      <mj-include path='./components/_separator.mjml'/>
+      <mj-include path='./components/_tutorials.mjml'/>
+      <mj-include path='./components/_separator.mjml'/>
+      <mj-include path='./components/_tutorials_billboard.mjml'/>
+      <!-- Footer // mj-section -->
+      <mj-include path='./components/_footer.mjml'/>
+
+    </mj-wrapper>
+  </mj-body>
+</mjml>

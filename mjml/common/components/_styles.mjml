@@ -1,0 +1,30 @@
+<mj-style inline="inline">
+    * {
+        font-family: LVUpItalic, Muli, Arial;
+    }
+    h1, h2, h3, h4, h5, h6 {
+        font-size: inherit;
+        font-weight: inherit;
+        padding: 0;
+        margin: 0;
+    }
+    strong {
+        font-weight: 700;
+    }
+    .btn-primary a {
+        min-width: 220px;
+        line-height: 1!important;
+        padding: 12px 0 13px;
+        display: block;
+        color: #ffffff;
+        font-weight: 500;
+        white-space: nowrap;
+    }
+    p {
+        padding: 0;
+        margin: 0;
+    }
+    img {
+        display: block;
+    }
+</mj-style>

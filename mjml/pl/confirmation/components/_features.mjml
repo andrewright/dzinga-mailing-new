@@ -1,0 +1,22 @@
+<mj-section mj-class='content_bg__white'>
+  <mj-column background-color='#333333' width='275px'>
+    <mj-text color='#ffffff' padding='80px 32px 50px 42px' font-size='16px' line-height='22px' height='100px'>
+      <font color='#6DE022'>Zaloguj się</font> teraz na swoje konto i uzupełnij dane swojego profilu, aby odblokować najpotężniejsze funkcje Dzinga:</mj-text>
+    <mj-image src='https://dzinga.com/images/mail/block-corner.png' align='right' width='50px' height='50px'/>
+  </mj-column>
+  <mj-column border-left='1px solid #F7F7F7' padding='54px 36px 100px 42px'>
+    <mj-text mj-class='h2' padding-bottom='14px'>Widżet Call-back</mj-text>
+    <mj-text font-size='16px' line-height='22px'>aby przekonwertować odwiedzających witrynę na zapytania sprzedażowe</mj-text>
+  </mj-column>
+</mj-section>
+<mj-section mj-class='content_bg__white'>
+  <mj-column border-right='1px solid #F7F7F7' border-top='1px solid #F7F7F7' padding='54px 36px 80px 42px'>
+    <mj-text mj-class='h2' padding-bottom='14px'>Lokalne i bezpłatne numery telefonów</mj-text>
+    <mj-text font-size='16px' line-height='22px'>w kilkudziesięciu krajach, aby sprzedawać na całym świecie, przyciągać więcej połączeń i łączyć zimne telefony</mj-text>
+  </mj-column>
+  <mj-column border-top='1px solid #F7F7F7' padding='54px 36px 80px 42px'>
+    <mj-text mj-class='h2' padding-bottom='14px'>Cloud PBX</mj-text>
+    <mj-text font-size='16px' line-height='22px'>aby zatrzymać utraty klientów przez zajęte linie, obsługując więcej rozmów sprzedażowych jednocześnie</mj-text>
+  </mj-column>
+</mj-section>
+

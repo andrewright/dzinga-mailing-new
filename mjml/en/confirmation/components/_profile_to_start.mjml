@@ -1,0 +1,51 @@
+<mj-section background-color='#333333' padding-right='25px' padding-left='25px'>
+  <mj-column>
+    <mj-image src='https://dzinga.com/images/mail/subheader-img.png' width='312px' height='95px' align='right'/>
+  </mj-column>
+</mj-section>
+<mj-section background-color='#333333' padding='22px 25px 22px 25px'>
+  <mj-column>
+    <mj-text mj-class='h2' color='#ffffff'>Complete your Dzinga user profile now and start to:</mj-text>
+  </mj-column>
+</mj-section>
+<mj-section background-color='#333333' mj-class='paddingX_28'>
+  <mj-column>
+    <mj-divider border-width='1px' border-color='#4A4A4A' />
+  </mj-column>
+</mj-section>
+<mj-section background-color='#333333' mj-class='paddingX_28' padding-top='18px' padding-bottom='18px'>
+  <mj-column width='22px' border-radius='100%' background-color='#6DE022' css-class='max-22'>
+    <mj-text color='#ffffff' font-size='16px' line-height='100%' padding='4px 0px 2px 6px'>✔</mj-text>
+  </mj-column>
+  <mj-column width='472px'>
+    <mj-text color='#ffffff' font-size='16px' line-height='22px' padding-left='33px'>Convert website visitors into sales inquiries</mj-text>
+  </mj-column>
+</mj-section>
+
+<mj-section background-color='#333333' mj-class='paddingX_28'>
+  <mj-column>
+    <mj-divider border-width='1px' border-color='#4A4A4A' />
+  </mj-column>
+</mj-section>
+<mj-section background-color='#333333' mj-class='paddingX_28' padding-top='18px' padding-bottom='18px'>
+  <mj-column width='22px' border-radius='100%' background-color='#6DE022'>
+    <mj-text color='#ffffff' font-size='16px' line-height='100%' padding='4px 0px 2px 6px'>✔</mj-text>
+  </mj-column>
+  <mj-column width='472px'>
+    <mj-text color='#ffffff' font-size='16px' line-height='22px' padding-left='33px'>Reach a cold prospect in 4 attempts, not 14</mj-text>
+  </mj-column>
+</mj-section>
+
+<mj-section background-color='#333333' mj-class='paddingX_28'>
+  <mj-column>
+    <mj-divider border-width='1px' border-color='#4A4A4A' />
+  </mj-column>
+</mj-section>
+<mj-section background-color='#333333' mj-class='paddingX_28' padding-top='18px' padding-bottom='38px'>
+  <mj-column width='22px' border-radius='100%' background-color='#6DE022' css-class='max-22'>
+    <mj-text color='#ffffff' font-size='16px' line-height='100%' padding='4px 0px 2px 6px'>✔</mj-text>
+  </mj-column>
+  <mj-column width='472px'>
+    <mj-text color='#ffffff' font-size='16px' line-height='22px' padding-left='33px'>Attract 30% more sales calls </mj-text>
+  </mj-column>
+</mj-section>
