@@ -27,8 +27,8 @@
   <mj-class name='btn__main' color='#ffffff' background-color='#6DE022' font-weight='500' font-size='20px' display='block' inner-padding='0 38px'/>
   <mj-class name='btn__second' color='#ffffff' background-color='#333333' font-weight='500' font-size='20px' display='block' inner-padding='0 24px'/>
   <mj-class name='footer__text' color='#777777' font-size='12px' line-height='20px'/>
-  <mj-breakpoint width="400px" />
 </mj-attributes>
+<mj-breakpoint width="400px" />
 <mj-style inline='inline'>
   a {
   text-decoration: none;
